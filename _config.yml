@@ -44,7 +44,8 @@ minima:
   social_links:
     - github: bariscembakay
     - linkedin: https://www.linkedin.com/in/bar%C4%B1%C5%9F-cem-bakay-39054119a/
-    # - twitter: your-twitter-handle
+    - email: bariscembakay@gmail.com
+    - cv: /assets/cv.pdf
 
 # Build settings
 theme: minima
