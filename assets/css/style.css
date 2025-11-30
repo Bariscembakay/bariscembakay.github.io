@@ -9,6 +9,7 @@ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;col
 .intro ul{margin:0 0 1rem 1.1rem}
 .site-footer{border-top:1px solid #eee;padding:2rem 0;margin-top:3rem;text-align:center;font-size:.85rem;background:#fafafa}
 .site-footer .links a{margin:0 .9rem;text-decoration:none;color:#0366d6}
+.site-footer .copyright{display:block;margin-top:1.6rem;color:#666;font-size:.9rem}
 .post-meta{color:#666;font-size:.85rem;margin-top:-.5rem;margin-bottom:1.5rem}
 @media (max-width:640px){.site-nav a{margin-left:.6rem}.wrapper{padding:1rem 1.1rem}.site-footer .links a{margin:0 .6rem}}
 /* Alignment & about tweaks */
