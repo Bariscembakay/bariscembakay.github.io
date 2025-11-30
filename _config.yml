@@ -29,13 +29,6 @@ url: "https://bariscembakay.github.io" # production site URL
 twitter_username: "" # set when ready
 github_username: bariscembakay
 
-# Author information
-author:
-  name: "Barış Cem Bakay"
-  email: "bariscembakay@gmail.com"
-  github: "bariscembakay"
-  # add more fields (linkedin, twitter) as needed
-
 # Timezone for date handling
 timezone: Europe/Istanbul
 
