@@ -20,14 +20,31 @@
 
 title: Barış Cem Bakay
 email: bariscembakay@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  bariscembakay
+description: >-
+  Personal site & blog by Barış Cem Bakay. I write about software
+  development, learning, side projects, and things I find interesting.
+  Follow along for articles, snippets, and experiments.
+baseurl: "" # leave empty for user.github.io root
+url: "https://bariscembakay.github.io" # production site URL
+twitter_username: "" # set when ready
+github_username: bariscembakay
+
+# Author information
+author:
+  name: "Barış Cem Bakay"
+  email: "bariscembakay@gmail.com"
+  github: "bariscembakay"
+  # add more fields (linkedin, twitter) as needed
+
+# Timezone for date handling
+timezone: Europe/Istanbul
+
+# Minima theme customization (social links etc.)
+minima:
+  social_links:
+    - github: bariscembakay
+    - linkedin: https://www.linkedin.com/in/bar%C4%B1%C5%9F-cem-bakay-39054119a/
+    # - twitter: your-twitter-handle
 
 # Build settings
 theme: minima
