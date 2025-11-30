@@ -1,23 +1,8 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
-Hi, I’m Barış Cem Bakay.
-
-I enjoy building software, learning new technologies, and sharing concise notes & experiments. This site hosts:
-
-- Blog posts (ideas, lessons, mini‑guides)
-- Project & experiment write‑ups
-- References and curated resources
-
-Elsewhere:
-
-- GitHub: [@bariscembakay](https://github.com/bariscembakay)
-<!-- - LinkedIn: (add when ready) -->
-
-You can reach me via email: <bariscembakay@gmail.com>.
-
-Tech interests: developer tooling, clean architecture, performance, automation.
-
-Thanks for stopping by — enjoy the posts!
+<div class="about-intro">
+	<p>I build clean, pragmatic software and document what I learn. Interests include developer tooling, performance, automation, and system design.</p>
+	<p>Currently focusing on refining workflows, exploring new tech, and sharing concise notes.</p>
+</div>

@@ -1,6 +1,7 @@
 body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;color:#222;line-height:1.5;background:#fff}
 .wrapper{max-width:860px;margin:0 auto;padding:1.25rem 1.5rem}
 .site-header{border-bottom:1px solid #eee;background:#fafafa}
+.header-flex{display:flex;align-items:center;justify-content:space-between}
 .site-title{margin:0;font-size:1.4rem}
 .site-title a{text-decoration:none;color:#222}
 .site-nav a{margin-left:1rem;text-decoration:none;color:#0366d6;font-size:.95rem}
@@ -10,3 +11,8 @@ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;margin:0;col
 .site-footer .links a{margin:0 .9rem;text-decoration:none;color:#0366d6}
 .post-meta{color:#666;font-size:.85rem;margin-top:-.5rem;margin-bottom:1.5rem}
 @media (max-width:640px){.site-nav a{margin-left:.6rem}.wrapper{padding:1rem 1.1rem}.site-footer .links a{margin:0 .6rem}}
+/* Alignment & about tweaks */
+.about-intro{max-width:640px;margin:0 auto}
+.about-intro p{margin:.6rem 0}
+.about-intro a{text-decoration:none;color:#0366d6}
+.home-empty{min-height:2rem}
