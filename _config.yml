@@ -21,29 +21,44 @@
 title: Barış Cem Bakay
 email: bariscembakay@gmail.com
 description: >-
-  Personal site & blog by Barış Cem Bakay. I write about software
-  development, learning, side projects, and things I find interesting.
-  Follow along for articles, snippets, and experiments.
-baseurl: "" # leave empty for user.github.io root
-url: "https://bariscembakay.github.io" # production site URL
-twitter_username: "" # set when ready
+  Personal site & portfolio by Barış Cem Bakay. Software engineering,
+  learning notes, side projects, and experiments.
+baseurl: ""
+url: "https://bariscembakay.github.io"
 github_username: bariscembakay
 
 # Timezone for date handling
 timezone: Europe/Istanbul
 
-# Minima theme customization (social links etc.)
-minima:
-  social_links:
-    - github: bariscembakay
-    - linkedin: https://www.linkedin.com/in/bar%C4%B1%C5%9F-cem-bakay-39054119a/
-    - email: bariscembakay@gmail.com
-    - cv: /assets/cv.pdf
+# Custom links used in footer
+links:
+  github: https://github.com/bariscembakay
+  linkedin: https://www.linkedin.com/in/bar%C4%B1%C5%9F-cem-bakay-39054119a/
+  email: mailto:bariscembakay@gmail.com
+  cv: /assets/cv.pdf
 
 # Build settings
-theme: minima
+# Remove theme to use custom layouts
+# theme: minima
 plugins:
   - jekyll-feed
+
+# Markdown & permalink settings
+markdown: kramdown
+permalink: pretty
+
+# Defaults for layouts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -13,7 +13,7 @@ I’m Barış Cem Bakay. This site is where I share:
 - Learning notes & distilled summaries from books/courses
 - Small project write‑ups and experiments
 
-Recent posts appear below. Feel free to explore the archive or reach out at `bariscembakay@gmail.com`.
+Feel free to explore the archive or reach out at `bariscembakay@gmail.com`.
 
 If you like what you read, starring the repo or sharing a post helps a lot. Thanks for visiting!
 
